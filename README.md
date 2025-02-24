@@ -19,6 +19,9 @@ Dans notre module web, nous allons configurer notre controller
 
 ![a05](https://github.com/user-attachments/assets/cc9dc60f-adfc-412f-9f80-81b6e8cb5183)
 
+![a08](https://github.com/user-attachments/assets/541ba7cb-947d-4911-9d53-69c5bfbcbee9)
+
+
 Et nous aurons le module start qui sera notre module de demarrage
 
 ![a06](https://github.com/user-attachments/assets/26bd1424-6d4f-4907-8007-573f8737c541)
